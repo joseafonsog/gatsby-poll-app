@@ -2,12 +2,12 @@ import firebase from "firebase"
 import "firebase/firestore"
 
 const config = {
-  apiKey: "AIzaSyD44LzYkYZEz5rgg7ImcQPRfSmPRe1Y4mI",
-  authDomain: "jose-afonso-g.firebaseapp.com",
-  databaseURL: "https://jose-afonso-g.firebaseio.com",
-  projectId: "jose-afonso-g",
-  storageBucket: "jose-afonso-g.appspot.com",
-  messagingSenderId: "495032438384",
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
 }
 
 class Firebase {
